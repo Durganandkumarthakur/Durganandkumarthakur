@@ -1,15 +1,16 @@
 ## 👋 Hi, I’m Durganand Kumar Thakur
 
 ### 👀 About Me  
-I’m passionate about **Frontend Development**, and I’m continuously working to strengthen my foundation in modern web technologies.  
-In the future, I plan to learn **DSA (Data Structures & Algorithms)** to improve my problem-solving and analytical skills.
+I am a **Full-Stack Laravel Developer** with experience in **Frontend and Backend Development**.  
+I am passionate about building efficient, responsive, and scalable web applications.  
+Currently, I am strengthening my skills in modern web technologies and plan to deepen my knowledge in **Data Structures & Algorithms (DSA)** to enhance problem-solving abilities.
 
-### 🌱 Currently Learning  
-- JavaScript (ES6+)  
-- React.js  
-- Node.js  
-- MVC  
-- Laravel Developer 
+### 🌱 Currently Learning / Skills  
+- **Frontend:** HTML, CSS, JavaScript, React.js, AJAX  
+- **Backend:** PHP, Laravel, API Development  
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
+- **Other:** AJAX React, MVC Architecture, Full-Stack Integration  
 
 ### 💞️ Looking to Collaborate On  
 - Frontend or MERN stack projects  
@@ -17,16 +18,11 @@ In the future, I plan to learn **DSA (Data Structures & Algorithms)** to improve
 - Real-world, beginner-friendly collaboration projects  
 
 ### 📫 How to Reach Me  
-📧 Email: **durganandpatna6@gmail.com**
+📧 Email: **durganandpatna6@gmail.com**  
 
 ### 😄 Pronouns  
 He/Him  
 
 ### ⚡ Fun Fact  
-I love exploring new tech stacks and building small projects that solve real-life problems.
-I enjoy coding while listening to music — it boosts my productivity! 😄
-
-<!---
-Durganandkumarthakur/Durganandkumarthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love exploring new tech stacks and building projects that solve real-life problems.  
+Coding while listening to music is my productivity booster! 🎵
