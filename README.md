@@ -2,6 +2,10 @@
 
 💻 Full Stack Developer | Laravel | FastAPI | React
 
+![Laravel](https://img.shields.io/badge/Laravel-PHP-red)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+
 ---
 
 ## 🚀 About Me
