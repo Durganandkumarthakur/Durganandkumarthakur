@@ -1,8 +1,19 @@
-# 👋 Hi, I'm **Durganand Kumar Thakur**
+# 👋 Hi, I'm <span style="color:#FF5733;">Durganand Kumar Thakur</span>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur\&label=Profile%20Views\&color=brightgreen\&style=for-the-badge)
 
-💻 **Full Stack Developer | Laravel | FastAPI | React**
+---
+
+### 💻 <span style="color:#00C897;">Full Stack Developer</span> |
+
+### <span style="color:#FF0000;">Laravel</span> |
+
+### <span style="color:#00FFAB;">FastAPI</span> |
+
+### <span style="color:#FFD93D;">React</span>
+
+---
+
 
 ---
 
