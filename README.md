@@ -1,16 +1,16 @@
-# 👋 Hi, I'm <span style="color:#FF5733;">Durganand Kumar Thakur</span>
+# 👋 Hi, I'm **Durganand Kumar Thakur**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur\&label=Profile%20Views\&color=brightgreen\&style=for-the-badge)
 
 ---
 
-### 💻 <span style="color:#00C897;">Full Stack Developer</span> |
+💻
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-00C897?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge\&logo=laravel\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00FFAB?style=for-the-badge\&logo=fastapi\&logoColor=black)
+![React](https://img.shields.io/badge/React-FFD93D?style=for-the-badge\&logo=react\&logoColor=black)
 
-### <span style="color:#FF0000;">Laravel</span> |
-
-### <span style="color:#00FFAB;">FastAPI</span> |
-
-### <span style="color:#FFD93D;">React</span>
+---
 
 ---
 
