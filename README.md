@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Durganand Kumar Thakur
-
+![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&color=blue)
 💻 Full Stack Developer | Laravel | FastAPI | React
 
 ![Laravel](https://img.shields.io/badge/Laravel-PHP-red)
