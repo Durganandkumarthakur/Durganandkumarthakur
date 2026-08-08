@@ -1,98 +1,115 @@
 # 👋 Hi, I'm **Durganand Kumar Thakur**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur\&label=Profile%20Views\&color=brightgreen\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Durganandkumarthakur?style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/Durganandkumarthakur?style=flat-square&logo=github)
 
 ---
 
-💻
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-00C897?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge\&logo=laravel\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FFAB?style=for-the-badge\&logo=fastapi\&logoColor=black)
-![React](https://img.shields.io/badge/React-FFD93D?style=for-the-badge\&logo=react\&logoColor=black)
+## 💼 Professional Summary
+
+Full-stack developer with a passion for building **scalable, high-performance web applications**. I specialize in creating robust backend systems and responsive frontend interfaces using modern technologies. Currently focused on architecting voice-based systems and RESTful APIs.
+
+**Expertise:** Full-stack development | API Design | Database Architecture | Real-time Applications
 
 ---
 
----
+## 🛠 Technical Stack
 
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+### ⚙️ Backend Technologies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🚀 About Me
+### 🗄️ Database & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
-I build real-world web applications with a focus on **performance, scalability, and clean architecture**.
-Currently working on **voice-based systems 🎤** and backend APIs to create interactive applications.
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-
-![HTML](https://img.shields.io/badge/HTML-FF4C4C?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-FFD93D?style=for-the-badge\&logo=css3\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF914D?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-00C897?style=for-the-badge\&logo=react\&logoColor=white)
-
----
-
-### ⚙️ Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge\&logo=laravel\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FFAB?style=for-the-badge\&logo=fastapi\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-FF6B6B?style=for-the-badge\&logo=php\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FFD700?style=for-the-badge\&logo=api\&logoColor=black)
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🗄 Database
+## 🚀 Featured Projects
 
-![MySQL](https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge\&logo=mysql\&logoColor=white)
-
----
-
-### 🧠 Tools & Concepts
-
-![Git](https://img.shields.io/badge/Git-FF5733?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_Architecture-28A745?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-FFC300?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Development-FF33A8?style=for-the-badge)
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **🎤 Voice Assistant Web App** | Real-time voice command processing with browser speech recognition and FastAPI backend | Python, FastAPI, JavaScript |
+| **🛒 E-Commerce Website** | Full-stack e-commerce platform with dynamic product management and shopping cart functionality | Laravel, MySQL, React |
+| **📊 Event Listing Platform** | Location-based event discovery system for Sydney with responsive design | PHP, MySQL, HTML/CSS |
+| **🎨 Portfolio Services** | Professional portfolio showcase with service offerings and project gallery | HTML, CSS, JavaScript |
 
 ---
 
-## 🔥 Featured Projects
+## 📈 Current Focus
 
-### 🎤 Voice Assistant Web App
-
-* Real-time voice commands using browser speech recognition
-* FastAPI backend with API-driven architecture
-* Scalable design for future AI integration
-
----
-
-### 🛒 E-Commerce Website
-
-* Dynamic product listing and cart system
-* Backend integration using Laravel
-* Clean UI with responsive design
+- 🔧 Building **scalable backend architectures** with proper design patterns
+- 📚 Mastering **Data Structures & Algorithms** (DSA)
+- 🔄 Implementing **RESTful API best practices** and microservices
+- 🚀 Enhancing application **performance and security**
+- 🤖 Exploring **AI integration** in web applications
 
 ---
 
-## 📈 What I’m Working On
+## 📊 GitHub Statistics
 
-* Improving backend architecture skills
-* Learning Data Structures & Algorithms (DSA)
-* Building scalable real-world applications
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durganandkumarthakur&theme=nord&show_icons=true&hide_border=true)
 
-## 📫 Contact
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durganandkumarthakur&theme=nord&hide_border=true&layout=compact)
 
-📧 **Email:** [durganandpatna6@gmail.com](mailto:durganandpatna6@gmail.com)
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🎓 Learning Path
 
-I enjoy building real-world projects and coding with music 🎧
+- **Web Development Fundamentals** ✅ Completed
+- **Full-Stack Development** ✅ In Progress
+- **Advanced Backend Architecture** 🔄 Currently Learning
+- **DevOps & Deployment** 📌 Next Focus
+- **Microservices Architecture** 📌 Upcoming
 
+---
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on:
+- 🌐 Full-stack web applications
+- 📱 Responsive web design projects
+- 🔌 API development and integration
+- 🎯 Performance optimization challenges
+
+---
+
+## 📞 Get In Touch
+
+- 📧 **Email:** [durganandpatna6@gmail.com](mailto:durganandpatna6@gmail.com)
+- 💼 **GitHub:** [github.com/Durganandkumarthakur](https://github.com/Durganandkumarthakur)
+- 📍 **Location:** India
+
+---
+
+## ⚡ Fun Facts
+
+- 🎧 I code best with music playing in the background
+- 🚀 Passionate about building real-world solutions
+- 💡 Always excited to learn new technologies
+- 🎯 Believe in clean code and best practices
+
+---
+
+## 📜 License & Attribution
+
+Feel free to reach out for collaboration or discussions about tech!
+
+**Last Updated:** 2026 | Keep Learning, Keep Building! 🚀
