@@ -1,6 +1,6 @@
-# 🚀 Durganand Kumar Thakur
-
 <div align="center">
+
+# 🚀 Durganand Kumar Thakur
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=0e75b6&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Durganandkumarthakur?style=social&label=Follow)](https://github.com/Durganandkumarthakur)
@@ -11,6 +11,12 @@
 [📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com) • [🌐 Portfolio](https://yourportfolio.com)
 
 </div>
+
+---
+
+## 🎮 Commit Snake Animation
+
+![Commit Snake](https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg)
 
 ---
 
