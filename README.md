@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Durganand%20Kumar%20Thakur&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Durganand%20Kumar%20Thakur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=0e75b6&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Durganandkumarthakur?style=social&label=Followers)](https://github.com/Durganandkumarthakur)
@@ -9,43 +9,38 @@
 
 **🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Open Source Contributor**
 
-[📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/durganandkumarthakur) • [🌐 Portfolio](https://yourportfolio.com) • [🐦 X/Twitter](https://twitter.com) • [📝 Blog](https://medium.com/@durganand)
+[📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/durganandkumarthakur) • [🌐 Portfolio](https://yourportfolio.com) • [🐦 X/Twitter](https://twitter.com) • [📝 Medium](https://medium.com/@durganand)
 
 </div>
 
 ---
 
-## 🎮 Commit Snake Animation
-
-![Commit Snake](https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg)
-
----
-
 ## 👨‍💻 About Me
 
-I'm a passionate **full-stack developer** with expertise in building **scalable, high-performance web applications**. I specialize in creating robust backend systems and crafting responsive, intuitive user experiences that balance functionality, speed, and aesthetics.
+I’m a passionate **full-stack developer** with hands-on experience building scalable web apps, cloud-ready backend systems, and clean user interfaces. I enjoy turning complex ideas into simple, reliable, production-grade solutions.
 
-💡 **What drives me:** Clean code, innovative solutions, continuous learning, and shipping products that matter.
-
-🎯 **My Mission:** Build technology that makes a real difference in people's lives.
+- 💡 Focused on clean architecture and maintainable code
+- 🚀 Building solutions that are fast, secure, and user-friendly
+- 📚 Constantly learning modern web and cloud technologies
+- 🎯 Passionate about shipping products that create real impact
 
 ---
 
-## 🎓 Professional Profile
+## 🎓 Professional Snapshot
 
 ```text
 🎯 Role:           Full-Stack Developer | Backend Engineer | DevOps Enthusiast
 📍 Location:       India 🇮🇳
 💼 Experience:     5+ Years
-🏆 Specialty:      Scalable Web Applications, RESTful APIs, Database Architecture
+🏆 Specialty:      Scalable Web Apps, APIs, Database Architecture
 🚀 Passion:        Open Source, Clean Code, Performance Optimization
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
-### 🎨 Frontend Stack
+### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -54,7 +49,7 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
-### ⚙️ Backend Stack
+### Backend
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -62,7 +57,7 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-### 🗄️ Database & APIs
+### Database & APIs
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -70,7 +65,7 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 [![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
-### 🛠️ Tools & DevOps
+### DevOps & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -141,22 +136,22 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 
 ---
 
-## 💼 Professional Expertise
+## 💼 Expertise
 
 | Category | Expertise |
 |----------|-----------|
-| **Full-Stack Development** | End-to-end web application development from database design to UI/UX |
-| **Backend Architecture** | Microservices, serverless, monolithic with scalability in mind |
-| **API Design** | RESTful APIs, GraphQL, WebSocket real-time communication |
-| **Database Design** | Schema optimization, indexing, query performance tuning |
-| **DevOps & Deployment** | Docker, Kubernetes, CI/CD pipelines, Cloud platforms (AWS, GCP) |
-| **Performance Optimization** | Code profiling, caching strategies, load optimization, SEO |
-| **Security** | Authentication, authorization, encryption, OWASP best practices |
-| **Real-time Features** | WebSocket implementation, live notifications, streaming data |
+| **Full-Stack Development** | End-to-end web app delivery from design to deployment |
+| **Backend Architecture** | Scalable APIs, microservices, and reliable systems |
+| **API Design** | REST, GraphQL, and real-time integrations |
+| **Database Design** | Schema planning, optimization, and performance tuning |
+| **DevOps & Deployment** | Docker, Kubernetes, CI/CD, cloud workflows |
+| **Performance Optimization** | Profiling, caching, optimization, and SEO improvements |
+| **Security** | Auth, JWT, OAuth2, encryption, and protection best practices |
+| **Real-time Features** | WebSockets, streaming, notifications, and live updates |
 
 ---
 
-## 🎯 Current Focus & Learning Path
+## 🎯 Current Focus
 
 ```text
 ✅ Web Development Fundamentals
@@ -170,17 +165,17 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 📌 System Design & Scalability
 ```
 
-### My Goals for 2026:
+### Goals for 2026
 - 🏗️ Master advanced system design and distributed architecture
-- 📚 Build expertise in Data Structures & Algorithms
-- 🚀 Contribute to high-impact open-source projects
-- 🔐 Implement production-ready, secure solutions
-- 🤖 Integrate AI/ML capabilities into web applications
-- 📈 Reach 10k+ GitHub stars across projects
+- 📚 Build stronger expertise in DSA and software fundamentals
+- 🚀 Contribute to meaningful open-source projects
+- 🔐 Build production-ready secure solutions
+- 🤖 Integrate AI/ML into practical applications
+- 📈 Grow toward 10k+ GitHub stars and a stronger developer presence
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Highlights
 
 <div align="center">
 
@@ -188,74 +183,32 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 |-------------|---------|
 | 🌟 **GitHub Stats** | 100+ Stars • 50+ Followers • 15+ Public Repos |
 | 📝 **Contributions** | 1,000+ commits this year • Active daily contributor |
-| 🔥 **Streak** | 200+ day coding streak (check graph above) |
-| 💡 **Open Source** | Multiple open-source projects with community support |
-| 📚 **Tech Articles** | Published on Medium • Dev.to • Hashnode |
+| 🔥 **Streak** | 200+ day coding streak |
+| 💡 **Open Source** | Multiple projects with community support |
+| 📚 **Tech Articles** | Published across Medium, Dev.to and Hashnode |
 
 </div>
 
 ---
 
-## 🎓 Quick Facts About Me
+## 🤝 Collaboration
 
-- 🎧 **Code Soundtrack:** Lo-fi beats, synthwave, and ambient music fuel my productivity
-- 🚀 **Passion:** Building real-world solutions that solve actual problems
-- 💡 **Philosophy:** Clean code, comprehensive documentation, and continuous improvement
-- 🎯 **Mindset:** Always learning, always building, always improving
-- 🌍 **Location:** India 🇮🇳
-- ⏰ **Work Style:** Early morning coder, coffee enthusiast ☕
-- 🌱 **Growth:** Believe in mentoring junior developers and community building
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 Building Secure Authentication Systems with JWT
-- 🚀 Docker Best Practices for Node.js Applications
-- 📊 Optimizing Database Queries for Performance
-- 🎨 React Hooks: Advanced Patterns and Practices
-- 🌐 RESTful API Design: A Comprehensive Guide
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always excited to work on:
-- 🌐 Full-stack web applications with modern tech stacks
-- 📱 Responsive & progressive web designs (PWA)
-- 🔌 Scalable API development and backend systems
-- ⚡ Performance optimization and refactoring projects
+I’m open to working on:
+- 🌐 Full-stack web applications
+- 📱 Responsive and modern UI/UX projects
+- 🔌 Scalable API and backend systems
+- ⚡ Performance optimization and refactoring
 - 🚀 Open-source contributions and community projects
-- 🤖 AI/ML-powered applications
-- 📊 Data-intensive applications and analytics platforms
+- 🤖 AI-powered web solutions
+- 📊 Data-heavy dashboards and analytics platforms
 
-**Interested in collaboration?** Reach out! I'm open to freelance projects, partnerships, and open-source contributions.
-
----
-
-## 📈 More Statistics
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 📝 Public Repositories | 20+ |
-| ⭐ Total Stars | 250+ |
-| 👥 Followers | 150+ |
-| 🔄 Total Contributions | 2,000+ |
-| 💻 Languages Proficient | 10+ |
-| 🏆 Years of Experience | 5+ |
-| 📅 Active Since | 2019 |
-
-</div>
+**Interested in collaborating?** Reach out and let’s build something impactful.
 
 ---
 
 ## 🎁 Support My Work
 
-If you find my projects helpful or enjoy my content, consider supporting my work:
+If you find my work helpful, consider supporting it:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/durganand)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Durganandkumarthakur)
@@ -295,9 +248,7 @@ If you find my projects helpful or enjoy my content, consider supporting my work
 
 *"The best way to predict the future is to invent it." - Alan Kay*
 
-**Last Updated:** September 2026
-
-*Feel free to explore my repositories, check out my projects, and reach out for collaboration opportunities! Whether you need a developer, consultant, or tech mentor, I'm here to help.*
+**Last Updated:** October 2026
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&fontAlignY=70)
 
