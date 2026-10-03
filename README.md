@@ -1,77 +1,79 @@
 <div align="center">
 
-<div style="max-width: 1180px; margin: 0 auto; background: linear-gradient(135deg, #0f172a 0%, #111827 35%, #1f2937 100%); border: 1px solid rgba(148,163,184,0.18); border-radius: 28px; padding: 14px; box-shadow: 0 30px 70px rgba(15, 23, 42, 0.75);">
+  <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background: linear-gradient(135deg, #0b1020 0%, #121a2b 35%, #1a2338 100%); border: 1px solid rgba(148,163,184,0.18); border-radius: 28px; overflow: hidden; box-shadow: 0 30px 80px rgba(15, 23, 42, 0.7);">
+    <tr>
+      <td style="padding: 30px;">
+        <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+          <tr>
+            <td valign="top" width="32%" style="padding: 18px; background: rgba(15, 23, 42, 0.78); border: 1px solid rgba(148,163,184,0.18); border-radius: 24px;">
+              <div align="center">
+                <img src="https://github.com/Durganandkumarthakur.png" width="150" height="150" alt="Profile avatar" style="border-radius: 50%; border: 4px solid #f59e0b; box-shadow: 0 18px 36px rgba(245,158,11,0.35);" />
+              </div>
+              <div align="center" style="margin-top: 18px;">
+                <div style="letter-spacing: 0.18em; font-size: 10px; color: #fbbf24; font-weight: 800; text-transform: uppercase;">FULL-STACK ENGINEER</div>
+                <h2 style="margin: 12px 0 0; color: #f8fafc; font-size: 30px; font-weight: 800; line-height: 1.15;">Durganand Kumar</h2>
+                <p style="margin: 8px 0 0; color: #cbd5e1; font-size: 14px; letter-spacing: 0.08em;">BUILDING MODERN DIGITAL SOLUTIONS</p>
+              </div>
 
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td width="32%" valign="top" style="padding: 22px; background: linear-gradient(180deg, rgba(17,24,39,0.95), rgba(15,23,42,0.9)); border: 1px solid rgba(148,163,184,0.16); border-radius: 22px;">
-      <div align="center">
-        <img src="https://github.com/Durganandkumarthakur.png" width="150" height="150" alt="Profile avatar" style="border-radius: 50%; border: 4px solid #f97316; box-shadow: 0 18px 34px rgba(249,115,22,0.42);" />
-      </div>
+              <div align="center" style="margin-top: 18px;">
+                <span style="display:inline-block; background: linear-gradient(135deg, #10b981, #22c55e); color: #062b1d; padding: 9px 15px; border-radius: 999px; font-size: 11px; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase;">Available for work</span>
+              </div>
 
-      <div align="center" style="margin-top: 18px;">
-        <div style="font-size: 10px; letter-spacing: 0.18em; color: #fbbf24; font-weight: 800; text-transform: uppercase;">Software Engineer</div>
-        <h2 style="margin: 10px 0 0; color: #f8fafc; font-size: 30px; font-weight: 800; line-height: 1.1;">Durganand Kumar</h2>
-        <p style="margin: 10px 0 0; color: #cbd5e1; font-size: 14px; letter-spacing: 0.04em;">Full-Stack Developer</p>
-      </div>
+              <p style="margin: 18px 0 0; color: #dbeafe; font-size: 14px; line-height: 1.8; text-align: center;">
+                I design and build scalable web apps, APIs, and product experiences that are fast, reliable, and user-focused.
+              </p>
 
-      <div align="center" style="margin-top: 18px;">
-        <span style="display:inline-block; background: rgba(15, 23, 42, 0.94); border: 1px solid rgba(148,163,184,0.2); border-radius: 999px; padding: 10px 18px; color: #f8fafc; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700;">Open to work</span>
-      </div>
+              <div align="center" style="margin-top: 20px;">
+                <a href="mailto:durganandpatna6@gmail.com" style="display:inline-block; background: linear-gradient(135deg, #f59e0b, #f97316); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">✉️ Email</a>
+                <a href="https://linkedin.com/in/durganandkumarthakur" style="display:inline-block; background: linear-gradient(135deg, #3b82f6, #2563eb); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">💼 LinkedIn</a>
+              </div>
+              <div align="center" style="margin-top: 6px;">
+                <a href="https://github.com/Durganandkumarthakur" style="display:inline-block; background: linear-gradient(135deg, #1f2937, #111827); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">⭐ GitHub</a>
+                <a href="https://yourportfolio.com" style="display:inline-block; background: linear-gradient(135deg, #10b981, #059669); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">🌐 Portfolio</a>
+              </div>
+            </td>
 
-      <p style="margin: 18px 0 0; color: #cbd5e1; font-size: 14px; line-height: 1.7; text-align: center;">
-        Building polished apps, scalable backends, and digital experiences that solve real business problems.
-      </p>
+            <td valign="top" width="68%" style="padding: 14px 18px 8px 18px;">
+              <div style="background: linear-gradient(135deg, rgba(59,130,246,0.16), rgba(168,85,247,0.14), rgba(15,118,110,0.12)); border: 1px solid rgba(148,163,184,0.18); border-radius: 24px; padding: 24px 22px;">
+                <div style="font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: #fbbf24; font-weight: 800;">Profile Overview</div>
+                <h1 style="margin: 12px 0 0; color: #f8fafc; font-size: 42px; font-weight: 800; line-height: 1.12;">Hi, I’m Durganand.</h1>
+                <p style="margin: 16px 0 0; color: #e2e8f0; font-size: 17px; line-height: 1.8;">
+                  Full-stack developer with a passion for creating <strong>scalable backend systems</strong>, <strong>high-performance web apps</strong>, and <strong>clean product experiences</strong> that people actually enjoy using.
+                </p>
 
-      <div align="center" style="margin-top: 22px;">
-        <a href="mailto:durganandpatna6@gmail.com" style="display:inline-block; background: linear-gradient(135deg, #f97316, #ef4444); color: white; padding: 10px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; margin: 6px 4px;">📧 Email</a>
-        <a href="https://linkedin.com/in/durganandkumarthakur" style="display:inline-block; background: linear-gradient(135deg, #3b82f6, #2563eb); color: white; padding: 10px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; margin: 6px 4px;">💼 LinkedIn</a>
-      </div>
+                <div style="margin-top: 22px; display: flex; flex-wrap: wrap; gap: 10px;">
+                  <a href="mailto:durganandpatna6@gmail.com" style="background: linear-gradient(135deg, #f97316, #ef4444); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 800;">📧 Hire Me</a>
+                  <a href="https://linkedin.com/in/durganandkumarthakur" style="background: linear-gradient(135deg, #38bdf8, #2563eb); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 800;">💼 LinkedIn</a>
+                  <a href="https://github.com/Durganandkumarthakur" style="background: linear-gradient(135deg, #111827, #374151); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 800;">⭐ GitHub</a>
+                </div>
+              </div>
 
-      <div align="center" style="margin-top: 10px;">
-        <a href="https://github.com/Durganandkumarthakur" style="display:inline-block; background: linear-gradient(135deg, #111827, #374151); color: white; padding: 10px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; margin: 6px 4px;">⭐ GitHub</a>
-        <a href="https://yourportfolio.com" style="display:inline-block; background: linear-gradient(135deg, #10b981, #22c55e); color: white; padding: 10px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; margin: 6px 4px;">🌐 Portfolio</a>
-      </div>
-    </td>
-
-    <td width="68%" valign="top" style="padding: 18px 18px 6px 18px;">
-      <div style="background: linear-gradient(135deg, rgba(99,102,241,0.18), rgba(168,85,247,0.12)); border: 1px solid rgba(99,102,241,0.18); border-radius: 22px; padding: 24px 26px;">
-        <div style="font-size: 11px; color: #fbbf24; font-weight: 800; letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 10px;">Profile Overview</div>
-        <h1 style="margin: 0; color: #f8fafc; font-size: 42px; line-height: 1.12; font-weight: 800;">Hi, I’m Durganand</h1>
-        <p style="margin: 14px 0 0; color: #e2e8f0; font-size: 17px; line-height: 1.8;">
-          Full-Stack Developer building <strong>scalable products</strong>, <strong>clean architecture</strong>, and <strong>modern web experiences</strong> for real-world impact.
-        </p>
-
-        <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 22px;">
-          <a href="mailto:durganandpatna6@gmail.com" style="background: linear-gradient(135deg, #f97316, #f43f5e); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 700;">📧 Hire Me</a>
-          <a href="https://linkedin.com/in/durganandkumarthakur" style="background: linear-gradient(135deg, #38bdf8, #2563eb); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 700;">💼 LinkedIn</a>
-          <a href="https://github.com/Durganandkumarthakur" style="background: linear-gradient(135deg, #1f2937, #0f172a); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 700;">⭐ GitHub</a>
-        </div>
-      </div>
-
-      <div style="display: flex; gap: 14px; flex-wrap: wrap; margin-top: 18px;">
-        <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
-          <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Experience</div>
-          <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">5+</div>
-        </div>
-        <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
-          <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Projects</div>
-          <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">20+</div>
-        </div>
-        <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
-          <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Followers</div>
-          <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">150+</div>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+              <div style="display: flex; gap: 14px; flex-wrap: wrap; margin-top: 18px;">
+                <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.82); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
+                  <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Experience</div>
+                  <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">5+</div>
+                </div>
+                <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.82); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
+                  <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Projects</div>
+                  <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">20+</div>
+                </div>
+                <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.82); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
+                  <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Followers</div>
+                  <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">150+</div>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -94,45 +96,45 @@
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🎤 Voice Assistant</h3>
-<p>Real-time speech recognition with a FastAPI-powered backend</p>
+<h3>🎤 Voice Assistant Web App</h3>
+<p>Real-time voice interaction with browser speech recognition and a FastAPI backend.</p>
 <p><strong>Tech:</strong> Python • FastAPI • JavaScript</p>
 <p><a href="https://github.com/Durganandkumarthakur/voice-assistant">View Project →</a></p>
 </td>
 <td align="center" width="33%">
-<h3>🛒 E-Commerce</h3>
-<p>Full-stack platform with products, cart, and payment flows</p>
+<h3>🛒 E-Commerce Platform</h3>
+<p>Scalable storefront with product, cart, checkout, and order flows.</p>
 <p><strong>Tech:</strong> Laravel • MySQL • React</p>
 <p><a href="https://github.com/Durganandkumarthakur/ecommerce">View Project →</a></p>
 </td>
 <td align="center" width="33%">
-<h3>📍 Event Listing</h3>
-<p>Location-aware event discovery and listing experience</p>
+<h3>📍 Event Listing System</h3>
+<p>Location-based event discovery with mobile-friendly and responsive design.</p>
 <p><strong>Tech:</strong> PHP • MySQL • HTML/CSS</p>
 <p><a href="https://github.com/Durganandkumarthakur/event-listing">View Project →</a></p>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<h3>🔐 Auth System</h3>
-<p>Secure auth and authorization system with JWT and OAuth2</p>
+<h3>🔐 Auth Management System</h3>
+<p>Secure identity system with JWT, OAuth2, and 2FA support.</p>
 <p><strong>Tech:</strong> Node.js • Express • PostgreSQL</p>
 <p><a href="https://github.com/Durganandkumarthakur/auth-system">View Project →</a></p>
 </td>
 <td align="center" width="33%">
 <h3>📈 Analytics Dashboard</h3>
-<p>Interactive charts and metrics for operational insights</p>
+<p>Live KPI dashboards with rich visualizations and metrics tracking.</p>
 <p><strong>Tech:</strong> React • TypeScript • FastAPI</p>
 <p><a href="https://github.com/Durganandkumarthakur/analytics-dashboard">View Project →</a></p>
 </td>
 <td align="center" width="33%">
-<h3>🚀 Microservices</h3>
-<p>Containerized services with orchestration and scaling</p>
+<h3>🚀 Microservices Architecture</h3>
+<p>Containerized systems designed for scaling, resilience, and orchestration.</p>
 <p><strong>Tech:</strong> Node.js • Docker • Kubernetes</p>
 <p><a href="https://github.com/Durganandkumarthakur/microservices">View Project →</a></p>
 </td>
