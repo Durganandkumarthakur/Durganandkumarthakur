@@ -1,177 +1,108 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 18px; margin-bottom: 30px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.25);">
+<table width="100%" cellpadding="18" cellspacing="0" style="border-collapse: collapse; background: linear-gradient(135deg, #0f172a 0%, #111827 35%, #1f2937 100%); border-radius: 24px; overflow: hidden;">
+  <tr>
+    <td width="28%" valign="top" align="center" style="background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%); border-radius: 22px; padding: 24px 18px;">
+      <img src="https://github.com/Durganandkumarthakur.png" width="140" height="140" alt="Profile Photo" style="border-radius: 50%; border: 4px solid #f97316; box-shadow: 0 10px 30px rgba(249,115,22,0.35);" />
+      <br><br>
+      <h3 style="color: #f8fafc; margin: 0; font-size: 26px;">Durganand Kumar</h3>
+      <p style="color: #cbd5e1; margin-top: 8px; margin-bottom: 12px; font-size: 14px;">Full-Stack Developer</p>
+      <p style="color: #94a3b8; line-height: 1.6; font-size: 13px; margin: 0 0 18px;">
+        Building scale-ready apps, APIs, and solutions that feel clean, fast, and real.
+      </p>
+      <p>
+        <a href="mailto:durganandpatna6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/durganandkumarthakur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      </p>
+      <p>
+        <a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="72%" valign="top" style="background: linear-gradient(135deg, #111827 0%, #1f2937 100%); border-radius: 22px; padding: 24px 24px 18px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px;">
+        <div>
+          <div style="font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: #f59e0b; font-weight: 700;">Developer Profile</div>
+          <h1 style="margin: 8px 0; color: #f8fafc; font-size: 42px; line-height: 1.1;">Hi, I'm Durganand</h1>
+        </div>
+        <div style="background: linear-gradient(135deg, #f97316, #fb7185); border-radius: 999px; padding: 10px 16px; color: white; font-weight: 700; font-size: 12px;">Available</div>
+      </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Durganand%20Kumar%20Thakur&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+      <p style="color: #e2e8f0; font-size: 17px; line-height: 1.7; margin-top: 18px;">
+        Full-Stack Developer focused on <strong>scalable products</strong>, <strong>clean architecture</strong>, and <strong>real-world business impact</strong>.
+      </p>
 
-<p style="font-size: 22px; font-weight: 700; color: #ffffff; margin-top: 12px;">
-  Full-Stack Developer | Problem Solver | Open Source Enthusiast
-</p>
+      <div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 18px 0;">
+        <a href="mailto:durganandpatna6@gmail.com" style="background: linear-gradient(135deg, #f97316, #ef4444); color: white; padding: 11px 20px; border-radius: 999px; text-decoration: none; font-weight: 700;">📧 Hire Me</a>
+        <a href="https://linkedin.com/in/durganandkumarthakur" style="background: linear-gradient(135deg, #3b82f6, #2563eb); color: white; padding: 11px 20px; border-radius: 999px; text-decoration: none; font-weight: 700;">💼 LinkedIn</a>
+        <a href="https://github.com/Durganandkumarthakur" style="background: linear-gradient(135deg, #111827, #374151); color: white; padding: 11px 20px; border-radius: 999px; text-decoration: none; font-weight: 700;">⭐ GitHub</a>
+      </div>
 
-<p style="font-size: 16px; color: #f4ebff; margin: 10px auto 20px; max-width: 760px;">
-  Building scalable web products, secure backend systems, and meaningful digital experiences that solve real-world problems.
-</p>
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="mailto:durganandpatna6@gmail.com" style="background: #FF6B6B; color: white; padding: 12px 26px; border-radius: 50px; text-decoration: none; font-weight: 700;">📧 Email</a>
-  <a href="https://linkedin.com/in/durganandkumarthakur" style="background: #4ECDC4; color: white; padding: 12px 26px; border-radius: 50px; text-decoration: none; font-weight: 700;">💼 LinkedIn</a>
-  <a href="https://medium.com/@durganand" style="background: #FFD93D; color: #222; padding: 12px 26px; border-radius: 50px; text-decoration: none; font-weight: 700;">📝 Blog</a>
-  <a href="https://yourportfolio.com" style="background: #6BCB77; color: white; padding: 12px 26px; border-radius: 50px; text-decoration: none; font-weight: 700;">🌐 Portfolio</a>
-</div>
-
-<div style="margin-top: 22px;">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=ffffff&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/Durganandkumarthakur?style=social&label=Followers)](https://github.com/Durganandkumarthakur)
-  [![GitHub stars](https://img.shields.io/github/stars/Durganandkumarthakur?style=social)](https://github.com/Durganandkumarthakur?tab=stars)
-</div>
-
-</div>
+      <div style="display: flex; gap: 18px; flex-wrap: wrap; margin-top: 18px;">
+        <div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(148,163,184,0.2); border-radius: 16px; padding: 12px 18px; min-width: 100px;">
+          <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px;">Experience</div>
+          <div style="font-size: 24px; color: #f8fafc; font-weight: 800; margin-top: 5px;">5+</div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(148,163,184,0.2); border-radius: 16px; padding: 12px 18px; min-width: 100px;">
+          <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px;">Projects</div>
+          <div style="font-size: 24px; color: #f8fafc; font-weight: 800; margin-top: 5px;">20+</div>
+        </div>
+        <div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(148,163,184,0.2); border-radius: 16px; padding: 12px 18px; min-width: 100px;">
+          <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px;">Followers</div>
+          <div style="font-size: 24px; color: #f8fafc; font-weight: 800; margin-top: 5px;">150+</div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Quick Stats
+## 🚀 My Tech Stack
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 💻 **Experience** | 5+ Years |
-| 🌟 **GitHub Stars** | 250+ |
-| 👥 **Followers** | 150+ |
-| 🔥 **Coding Streak** | 200+ Days |
-| 🚀 **Projects** | 20+ |
-| 📚 **Languages** | 10+ |
-
-</div>
-
----
-
-## 🎮 Commit Snake Animation
-
-![Commit Snake](https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg)
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **full-stack developer** dedicated to building **scalable, high-performance web applications**. I specialize in crafting secure backends, responsive interfaces, and clean architecture that can grow with real business needs.
-
-**What I value:**
-- 💡 Clean architecture and maintainable code
-- 🚀 High-performance and scalable solutions
-- 🔒 Secure systems built with best practices
-- 📚 Continuous learning and real-world problem solving
-- 🤝 Contributing to open source and mentoring developers
-
----
-
-## 🎓 Professional Snapshot
-
-```text
-🎯 Role:           Full-Stack Developer | Backend Engineer | DevOps Enthusiast
-📍 Location:       India 🇮🇳
-💼 Experience:     5+ Years
-🏆 Specialty:      Scalable Web Apps, REST APIs, Database Architecture
-🚀 Passion:        Open Source, Clean Code, Performance Optimization
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-### ⚙️ Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-
-### 🗄️ Databases & APIs
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
-
-### 🚀 DevOps & Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+</div>
 
 ---
 
-## ✨ Featured Projects
+## 🌟 Featured Work
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="50%">
-
-### 🎤 Voice Assistant Web App
-**Real-time voice command processing**
-
-```
-⭐ Python • FastAPI • JavaScript • Web APIs
-📊 50+ Stars | 20+ Forks
-```
-
-[🔗 View Project](https://github.com/Durganandkumarthakur/voice-assistant)
-
+<td align="center" width="33%">
+<h3>🎤 Voice Assistant</h3>
+<p>Real-time voice interaction with speech recognition and FastAPI backend</p>
+<p><strong>Tech:</strong> Python • FastAPI • JavaScript</p>
+<p><a href="https://github.com/Durganandkumarthakur/voice-assistant">View Project →</a></p>
 </td>
-<td align="center" width="50%">
-
-### 🛒 E-Commerce Platform
-**Full-stack shopping solution**
-
-```
-⭐ Laravel • MySQL • React • Stripe
-📊 80+ Stars | 35+ Forks
-```
-
-[🔗 View Project](https://github.com/Durganandkumarthakur/ecommerce)
-
+<td align="center" width="33%">
+<h3>🛒 E-Commerce</h3>
+<p>Full-stack online store solution with cart, products, and payments</p>
+<p><strong>Tech:</strong> Laravel • MySQL • React</p>
+<p><a href="https://github.com/Durganandkumarthakur/ecommerce">View Project →</a></p>
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🔐 Auth Management System
-**Enterprise authentication solution**
-
-```
-⭐ Node.js • Express • PostgreSQL • Docker
-📊 95+ Stars | 42+ Forks
-```
-
-[🔗 View Project](https://github.com/Durganandkumarthakur/auth-system)
-
-</td>
-<td align="center" width="50%">
-
-### 📈 Analytics Dashboard
-**Real-time data visualization**
-
-```
-⭐ React • TypeScript • Chart.js • FastAPI
-📊 65+ Stars | 28+ Forks
-```
-
-[🔗 View Project](https://github.com/Durganandkumarthakur/analytics-dashboard)
-
+<td align="center" width="33%">
+<h3>📱 Event Listing</h3>
+<p>Location-based platform for discovering events and venues</p>
+<p><strong>Tech:</strong> PHP • MySQL • HTML/CSS</p>
+<p><a href="https://github.com/Durganandkumarthakur/event-listing">View Project →</a></p>
 </td>
 </tr>
 </table>
@@ -192,77 +123,16 @@ I'm a passionate **full-stack developer** dedicated to building **scalable, high
 
 ---
 
-## 💼 Core Expertise
-
-| Category | Level | Description |
-|----------|-------|-------------|
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | End-to-end web apps from design to deployment |
-| **Backend Architecture** | ⭐⭐⭐⭐⭐ | Microservices, APIs, scalable systems |
-| **Database Design** | ⭐⭐⭐⭐⭐ | Schema optimization and performance tuning |
-| **DevOps & Cloud** | ⭐⭐⭐⭐☆ | Docker, Kubernetes, CI/CD, AWS/GCP |
-| **Frontend Excellence** | ⭐⭐⭐⭐⭐ | React, TypeScript, responsive design |
-| **Security & Auth** | ⭐⭐⭐⭐⭐ | JWT, OAuth2, encryption, OWASP practices |
-| **Real-time Systems** | ⭐⭐⭐⭐☆ | WebSockets, live notifications, streaming |
-| **Performance Optimization** | ⭐⭐⭐⭐⭐ | Profiling, caching, load optimization |
-
----
-
-## 🎓 Learning Roadmap 2026
-
-```text
-✅ Web Development & Full-Stack
-✅ Advanced Backend Architecture
-✅ System Design Fundamentals
-🔄 Data Structures & Algorithms (In Progress - 75%)
-🔄 Microservices & Distributed Systems (In Progress - 80%)
-📌 Kubernetes & Orchestration (Starting)
-📌 Machine Learning Integration (Starting)
-📌 Cloud Architecture (AWS Solutions Architect)
-📌 Advanced System Design & Scalability
-```
-
-### 🚀 2026 Goals
-- ✨ Master distributed system design
-- 📚 Excel in Data Structures & Algorithms
-- 🌟 Achieve 10k+ GitHub stars
-- 🏆 Publish 20+ technical articles
-- 🤖 Build AI/ML-powered applications
-- 👥 Mentor 50+ junior developers
-
----
-
-## 🌍 Let's Collaborate
-
-I'm excited to work on:
-- 🌐 **Full-Stack Web Apps** — Modern tech stacks, scalable solutions
-- 📱 **Progressive Web Apps (PWA)** — Responsive, offline-capable designs
-- 🔌 **Backend & APIs** — RESTful, GraphQL, microservices
-- ⚡ **Performance Projects** — Optimization, load testing, CDN
-- 🚀 **Open Source** — Community-driven contributions
-- 🤖 **AI/ML Integration** — Intelligent features in web apps
-- 📊 **Data Analytics** — Big data, visualization, dashboards
-
-**👉 Ready to build something amazing? Let's connect!**
-
----
-
-## 🎁 Support & Connect
+## 🔗 Connect
 
 <div align="center">
 
-### Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/durganand)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Durganandkumarthakur)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/durganand)
-
-### Connect With Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durganandpatna6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durganandpatna6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durganandkumarthakur)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durganandkumarthakur)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@durganand)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/durganand)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@durganand)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/durganand)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A5568?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -270,12 +140,12 @@ I'm excited to work on:
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Durganandkumarthakur.Durganandkumarthakur)
-
 ### ⚡ Keep Learning, Keep Building, Keep Shipping! 🚀
 
-*"The best way to predict the future is to invent it." — Alan Kay*
+*"The best way to predict the future is to invent it." - Alan Kay*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Let%27s%20Build%20Something%20Great%20Together!&fontSize=26&fontColor=ffffff&fontAlignY=70)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&fontAlignY=70)
+
+</div>
 
 </div>
