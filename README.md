@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Premium Header -->
+<!-- Premium Developer Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Durganand%20Kumar%20Thakur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=0e75b6&style=flat-square)
@@ -9,20 +9,26 @@
 
 **🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Open Source Contributor**
 
-[📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/durganandkumarthakur) • [🌐 Portfolio](https://yourportfolio.com) • [🐦 X/Twitter](https://twitter.com) • [📝 Medium](https://medium.com/@durganand)
+[📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/durganandkumarthakur) • [🌐 Portfolio](https://yourportfolio.com) • [🐦 X/Twitter](https://twitter.com) • [📝 Blog](https://medium.com/@durganand)
 
 </div>
 
 ---
 
+## 🎮 Commit Snake Animation
+
+![Commit Snake](https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 👨‍💻 About Me
 
-I’m a passionate **full-stack developer** with hands-on experience building scalable web apps, cloud-ready backend systems, and clean user interfaces. I enjoy turning complex ideas into simple, reliable, production-grade solutions.
+I’m a passionate **full-stack developer** with experience building scalable, production-ready web applications and backend systems. I enjoy turning complex ideas into clean, secure, high-performance solutions that users genuinely value.
 
-- 💡 Focused on clean architecture and maintainable code
-- 🚀 Building solutions that are fast, secure, and user-friendly
-- 📚 Constantly learning modern web and cloud technologies
-- 🎯 Passionate about shipping products that create real impact
+- 💡 Focused on maintainable architecture and clean code
+- 🚀 Building fast, reliable, and user-friendly digital products
+- 📚 Constantly improving in modern web, backend, and cloud technologies
+- 🎯 Passionate about solving real problems with impactful software
 
 ---
 
@@ -32,7 +38,7 @@ I’m a passionate **full-stack developer** with hands-on experience building sc
 🎯 Role:           Full-Stack Developer | Backend Engineer | DevOps Enthusiast
 📍 Location:       India 🇮🇳
 💼 Experience:     5+ Years
-🏆 Specialty:      Scalable Web Apps, APIs, Database Architecture
+🏆 Specialty:      Scalable Web Apps, REST APIs, Database Architecture
 🚀 Passion:        Open Source, Clean Code, Performance Optimization
 ```
 
@@ -57,7 +63,7 @@ I’m a passionate **full-stack developer** with hands-on experience building sc
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-### Database & APIs
+### Databases & APIs
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
