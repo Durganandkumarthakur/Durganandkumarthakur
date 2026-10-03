@@ -23,6 +23,12 @@
 
 <br/><br/>
 
+<a href="https://claude.ai/artifact/1hRsubCFyyzK91T4eMRvuf">
+  <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-FF6B35?style=for-the-badge&labelColor=203A43" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=FF6B35&style=flat-square" />
 <img src="https://img.shields.io/github/followers/Durganandkumarthakur?label=Followers&style=flat-square&color=138808&logo=github" />
 <img src="https://img.shields.io/github/stars/Durganandkumarthakur?label=Stars&style=flat-square&color=FFB400&logo=github" />
