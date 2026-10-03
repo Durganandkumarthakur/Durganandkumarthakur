@@ -1,14 +1,15 @@
 <div align="center">
 
-# 🚀 Durganand Kumar Thakur
+<!-- Premium Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Durganand%20Kumar%20Thakur&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=0e75b6&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Durganandkumarthakur?style=social&label=Follow)](https://github.com/Durganandkumarthakur)
+[![GitHub followers](https://img.shields.io/github/followers/Durganandkumarthakur?style=social&label=Followers)](https://github.com/Durganandkumarthakur)
 [![GitHub stars](https://img.shields.io/github/stars/Durganandkumarthakur?style=social)](https://github.com/Durganandkumarthakur?tab=stars)
 
-**Full-Stack Developer | Problem Solver | Tech Enthusiast | Open Source Contributor**
+**🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Open Source Contributor**
 
-[📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/durganandkumarthakur) • [🌐 Portfolio](https://yourportfolio.com) • [🐦 Twitter](https://twitter.com) • [📚 Blog](https://medium.com/@durganand)
+[📧 Email](mailto:durganandpatna6@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/durganandkumarthakur) • [🌐 Portfolio](https://yourportfolio.com) • [🐦 X/Twitter](https://twitter.com) • [📝 Blog](https://medium.com/@durganand)
 
 </div>
 
@@ -22,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **full-stack developer** with expertise in building **scalable, high-performance web applications**. I specialize in creating robust backend systems and crafting responsive, intuitive user experiences. With a strong foundation in multiple technologies, I transform ideas into elegant, efficient solutions.
+I'm a passionate **full-stack developer** with expertise in building **scalable, high-performance web applications**. I specialize in creating robust backend systems and crafting responsive, intuitive user experiences that balance functionality, speed, and aesthetics.
 
 💡 **What drives me:** Clean code, innovative solutions, continuous learning, and shipping products that matter.
 
@@ -32,7 +33,7 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 
 ## 🎓 Professional Profile
 
-```
+```text
 🎯 Role:           Full-Stack Developer | Backend Engineer | DevOps Enthusiast
 📍 Location:       India 🇮🇳
 💼 Experience:     5+ Years
@@ -157,7 +158,7 @@ I'm a passionate **full-stack developer** with expertise in building **scalable,
 
 ## 🎯 Current Focus & Learning Path
 
-```
+```text
 ✅ Web Development Fundamentals
 ✅ Full-Stack Development
 ✅ Advanced Backend Architecture
