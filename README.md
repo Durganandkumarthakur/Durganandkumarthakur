@@ -1,103 +1,183 @@
-<!-- ════════════════════════════════════════════════════════════════════════════
-     ██████╗ ██╗   ██╗██████╗  ██████╗  █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗ 
-     ██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗
-     ██║  ██║██║   ██║██████╔╝██║  ███╗███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║
-     ██║  ██║██║   ██║██╔══██╗██║   ██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║
-     ██████╔╝╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝
-     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ 
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════ 🎬 CINEMATIC HERO SECTION 🎬 ═══════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--              DURGANAND KUMAR THAKUR — GITHUB PROFILE README                -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/Durganandkumarthakur">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF1493&height=280&section=header&text=Durganand%20Kumar%20Thakur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20Full-Stack%20Developer%20•%20Backend%20Engineer%20•%20Open%20Source%20Builder%20⚡&descAlignY=55&descSize=18&descAlign=50" width="100%" />
-</a>
+# Hi, I'm Durganand Kumar Thakur 👋
+
+### Full Stack Developer · Laravel · PHP · MySQL · REST APIs
+
+**Building practical web applications with a strong focus on backend development, databases, and business workflows.**
+
+I have **1.4 years of professional experience** developing and maintaining Laravel-based applications — including feature development, debugging, deployment, database operations, and production issue resolution.
+
+Currently strengthening my skills in **React, FastAPI, Python, and Tailwind CSS**.
 
 <br/>
 
-<!-- Animated Typing Hero -->
-<a href="https://github.com/Durganandkumarthakur">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=130&lines=%F0%9F%91%8B+Hey+there!+I'm+Durganand;%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%92%BB+1.5%2B+Years+of+Hands-on+Experience;%F0%9F%8C%B1+Turning+Coffee+into+Clean+Code;%F0%9F%94%A5+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Animated Status Bar -->
-<img src="https://img.shields.io/badge/🟢_STATUS-Open_to_Opportunities-00F5FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/📍_LOCATION-India_🇮🇳-FF1493?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/💼_EXPERIENCE-1.5%2B_Years-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/⚡_AVAILABLE-Freelance_%26_Full--time-FFD700?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<!-- Social Badges -->
-<a href="https://github.com/Durganandkumarthakur">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00F5FF" />
-</a>
-<a href="https://linkedin.com/in/durganandkumarthakur">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:durganandpatna6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://medium.com/@durganand">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://dev.to/durganand">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- Profile Views + Followers + Stars Row -->
-<img src="https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=👁️%20Profile%20Views&color=00F5FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Durganandkumarthakur?label=👥%20Followers&style=for-the-badge&color=FF1493&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/github/stars/Durganandkumarthakur?label=⭐%20Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github" />
+[![Email](https://img.shields.io/badge/Email-durganandpatna6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:durganandpatna6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-durganandkumarthakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/durganandkumarthakur)
+[![GitHub](https://img.shields.io/badge/GitHub-Durganandkumarthakur-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Durganandkumarthakur)
+[![Location](https://img.shields.io/badge/Location-India-FF9933?style=flat-square)](https://github.com/Durganandkumarthakur)
 
 </div>
 
-<!-- ═══════════════════════ 🌊 ANIMATED WAVE DIVIDER 🌊 ═══════════════════════ -->
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+## 👨‍💻 About Me
 
-<!-- ═══════════════════════ 🐍 SNAKE ANIMATION 🐍 ═══════════════════════ -->
+I'm a **Full Stack Developer** with **1.4 years of professional experience**, primarily working with **Laravel, PHP, MySQL, and JavaScript** on real-world business applications.
+
+My work involves building and maintaining:
+- Web applications, admin panels, and dashboards
+- REST APIs with authentication and authorization
+- Role-based access control and multi-tenant data isolation
+- Payment integrations, queue systems, and email notifications
+- Database design with proper relationships and constraints
+
+I care about **clean code, correct behavior, and maintainable structure** — not just making things work.
+
+Currently learning **React, FastAPI, Python backend development, and Tailwind CSS** to expand into modern full-stack workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+
+### Concepts & Architecture
+`REST APIs` · `Authentication` · `Authorization` · `Role-Based Access` · `Multi-Tenancy` · `Queues` · `Events & Listeners` · `Payment Integration` · `Email Notifications` · `Database Design`
+
+---
+
+## 💼 What I Work On
+
+| Area | Experience |
+|:---|:---|
+| **Laravel Backend Development** | Controllers, Eloquent models, migrations, middleware, validation, service classes |
+| **REST API Development** | Building and consuming APIs, request validation, JSON responses, error handling |
+| **Authentication & Authorization** | Login systems, session and token auth, role-based permissions, policies |
+| **Database Design** | MySQL schema design, relationships, foreign keys, indexes, query optimization |
+| **Business Applications** | ERP modules, CRM workflows, e-commerce flows, admin dashboards |
+| **Payment Integration** | Payment gateway integration and callback handling |
+| **Queues & Background Jobs** | Queue workers, scheduled tasks, event/listener architecture |
+| **Deployment & Debugging** | Deployment workflows, production bug fixing, log analysis |
+| **Frontend Integration** | Blade templates, Bootstrap UI, AJAX-based interactions, Vite asset builds |
+
+---
+
+## 📌 Featured Projects
+
+> ⚠️ **Note:** Replace the repository links below with your actual repositories. The descriptions must match what each project actually demonstrates. Do not claim features that aren't in the code.
+
+### 🏢 Laravel Business Application
+A Laravel-based application for managing business workflows — including authentication, role-based access, CRUD operations, and database-driven reporting.
+
+**Stack:** Laravel · PHP · MySQL · Blade · Bootstrap · JavaScript
+
+**Key skills demonstrated:** MVC structure · Eloquent relationships · Middleware · Validation · Authentication · Role-based access
+
+[View Repository →](https://github.com/Durganandkumarthakur)
+
+---
+
+### 🛒 E-Commerce Platform
+A full-stack e-commerce application with product management, cart, order workflow, and payment integration.
+
+**Stack:** Laravel · PHP · MySQL · Bootstrap · JavaScript · Payment Gateway
+
+**Key skills demonstrated:** Order workflows · Payment integration · Database relationships · Admin panel · Form validation
+
+[View Repository →](https://github.com/Durganandkumarthakur)
+
+---
+
+### 🔐 REST API Backend
+A Laravel REST API project demonstrating authentication, authorization, request validation, and structured JSON responses.
+
+**Stack:** Laravel · PHP · MySQL · REST API
+
+**Key skills demonstrated:** API resources · Token/session auth · Request validation · HTTP status handling · Middleware
+
+[View Repository →](https://github.com/Durganandkumarthakur)
+
+---
+
+### ⚛️ React + FastAPI Project (Learning)
+A project built while learning React and FastAPI — demonstrating frontend-backend separation and modern API consumption.
+
+**Stack:** React · FastAPI · Python · Tailwind CSS
+
+**Key skills demonstrated:** Component-based UI · API consumption · Python backend basics · Modern frontend workflow
+
+[View Repository →](https://github.com/Durganandkumarthakur)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durganandkumarthakur&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durganandkumarthakur&layout=compact&theme=default&hide_border=true&langs_count=8)
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+> These statistics reflect actual repository activity. No artificial commits or manipulated contribution graphs.
 
-<!-- ═══════════════════════ 👨‍💻 ABOUT ME — CINEMATIC 👨‍💻 ═══════════════════════ -->
+---
+
+## 🎯 Current Focus
+
+- Strengthening **React** skills for modern frontend development
+- Learning **FastAPI and Python** for backend API development
+- Improving **Tailwind CSS** workflow
+- Building a stronger **Laravel project portfolio** with better documentation
+- Writing cleaner, more maintainable code with proper structure
+
+---
+
+## 📫 Connect With Me
+
+| Platform | Link |
+|:---|:---|
+| 📧 **Email** | [durganandpatna6@gmail.com](mailto:durganandpatna6@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/durganandkumarthakur](https://linkedin.com/in/durganandkumarthakur) |
+| 🐙 **GitHub** | [github.com/Durganandkumarthakur](https://github.com/Durganandkumarthakur) |
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8A2BE2,100:FF1493&height=90&section=header&text=👨‍💻%20ABOUT%20ME&fontSize=38&fontColor=ffffff&animation=blink&fontAlignY=60" width="100%" />
+
+**Open to full-time, freelance, and collaborative opportunities in Laravel / PHP / Full Stack development.**
+
+<sub>This profile reflects real projects and honest experience. No exaggerated claims.</sub>
+
 </div>
-
-<br/>
-
-<table align="center" width="100%" style="border: none;">
-<tr>
-<td width="60%" valign="top">
-
-```typescript
-const durganand = {
-  name:       "Durganand Kumar Thakur",
-  role:       "Full-Stack Developer",
-  experience: "1.5+ Years",
-  location:   "India 🇮🇳",
-  focus:      ["Scalable APIs", "Clean Architecture", "Cloud Native"],
-  currently:  "Building production-ready web apps",
-  learning:   ["System Design", "Kubernetes", "AI Integration"],
-  available:  true,   // → Open for work!
-  motto:      "Ship fast. Ship clean. Ship right.",
-};
