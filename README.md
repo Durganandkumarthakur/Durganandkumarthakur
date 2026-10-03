@@ -1,183 +1,118 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🚀 ANIMATED HERO SECTION 🚀                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Durganand%20Kumar%20Thakur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&descAlign=50" width="100%" />
+</div>
 
-  <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background: linear-gradient(135deg, #0b1020 0%, #121a2b 35%, #1a2338 100%); border: 1px solid rgba(148,163,184,0.18); border-radius: 28px; overflow: hidden; box-shadow: 0 30px 80px rgba(15, 23, 42, 0.7);">
-    <tr>
-      <td style="padding: 30px;">
-        <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-          <tr>
-            <td valign="top" width="32%" style="padding: 18px; background: rgba(15, 23, 42, 0.78); border: 1px solid rgba(148,163,184,0.18); border-radius: 24px;">
-              <div align="center">
-                <img src="https://github.com/Durganandkumarthakur.png" width="150" height="150" alt="Profile avatar" style="border-radius: 50%; border: 4px solid #f59e0b; box-shadow: 0 18px 36px rgba(245,158,11,0.35);" />
-              </div>
-              <div align="center" style="margin-top: 18px;">
-                <div style="letter-spacing: 0.18em; font-size: 10px; color: #fbbf24; font-weight: 800; text-transform: uppercase;">FULL-STACK ENGINEER</div>
-                <h2 style="margin: 12px 0 0; color: #f8fafc; font-size: 30px; font-weight: 800; line-height: 1.15;">Durganand Kumar</h2>
-                <p style="margin: 8px 0 0; color: #cbd5e1; font-size: 14px; letter-spacing: 0.08em;">BUILDING MODERN DIGITAL SOLUTIONS</p>
-              </div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    ✨ ANIMATED TYPING HEADER ✨                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-              <div align="center" style="margin-top: 18px;">
-                <span style="display:inline-block; background: linear-gradient(135deg, #10b981, #22c55e); color: #062b1d; padding: 9px 15px; border-radius: 999px; font-size: 11px; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase;">Available for work</span>
-              </div>
+<div align="center">
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%91%8B+Hello+World!+I'm+Durganand+Kumar+Thakur;%F0%9F%92%BB+Full-Stack+Developer+%7C+Backend+Engineer;%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%8C%B1+Open+Source+Enthusiast+%7C+Tech+Blogger" alt="Typing SVG" />
+  </a>
+</div>
 
-              <p style="margin: 18px 0 0; color: #dbeafe; font-size: 14px; line-height: 1.8; text-align: center;">
-                I design and build scalable web apps, APIs, and product experiences that are fast, reliable, and user-focused.
-              </p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🎯 ANIMATED BADGES ROW 🎯                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-              <div align="center" style="margin-top: 20px;">
-                <a href="mailto:durganandpatna6@gmail.com" style="display:inline-block; background: linear-gradient(135deg, #f59e0b, #f97316); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">✉️ Email</a>
-                <a href="https://linkedin.com/in/durganandkumarthakur" style="display:inline-block; background: linear-gradient(135deg, #3b82f6, #2563eb); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">💼 LinkedIn</a>
-              </div>
-              <div align="center" style="margin-top: 6px;">
-                <a href="https://github.com/Durganandkumarthakur" style="display:inline-block; background: linear-gradient(135deg, #1f2937, #111827); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">⭐ GitHub</a>
-                <a href="https://yourportfolio.com" style="display:inline-block; background: linear-gradient(135deg, #10b981, #059669); color: white; padding: 11px 18px; border-radius: 999px; text-decoration: none; font-weight: 800; margin: 6px 5px;">🌐 Portfolio</a>
-              </div>
-            </td>
-
-            <td valign="top" width="68%" style="padding: 14px 18px 8px 18px;">
-              <div style="background: linear-gradient(135deg, rgba(59,130,246,0.16), rgba(168,85,247,0.14), rgba(15,118,110,0.12)); border: 1px solid rgba(148,163,184,0.18); border-radius: 24px; padding: 24px 22px;">
-                <div style="font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: #fbbf24; font-weight: 800;">Profile Overview</div>
-                <h1 style="margin: 12px 0 0; color: #f8fafc; font-size: 42px; font-weight: 800; line-height: 1.12;">Hi, I’m Durganand.</h1>
-                <p style="margin: 16px 0 0; color: #e2e8f0; font-size: 17px; line-height: 1.8;">
-                  Full-stack developer with a passion for creating <strong>scalable backend systems</strong>, <strong>high-performance web apps</strong>, and <strong>clean product experiences</strong> that people actually enjoy using.
-                </p>
-
-                <div style="margin-top: 22px; display: flex; flex-wrap: wrap; gap: 10px;">
-                  <a href="mailto:durganandpatna6@gmail.com" style="background: linear-gradient(135deg, #f97316, #ef4444); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 800;">📧 Hire Me</a>
-                  <a href="https://linkedin.com/in/durganandkumarthakur" style="background: linear-gradient(135deg, #38bdf8, #2563eb); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 800;">💼 LinkedIn</a>
-                  <a href="https://github.com/Durganandkumarthakur" style="background: linear-gradient(135deg, #111827, #374151); color: white; padding: 12px 18px; border-radius: 999px; text-decoration: none; font-weight: 800;">⭐ GitHub</a>
-                </div>
-              </div>
-
-              <div style="display: flex; gap: 14px; flex-wrap: wrap; margin-top: 18px;">
-                <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.82); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
-                  <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Experience</div>
-                  <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">5+</div>
-                </div>
-                <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.82); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
-                  <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Projects</div>
-                  <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">20+</div>
-                </div>
-                <div style="flex: 1; min-width: 120px; background: rgba(15, 23, 42, 0.82); border: 1px solid rgba(148,163,184,0.18); border-radius: 18px; padding: 16px 18px;">
-                  <div style="font-size: 11px; color: #94a3b8; letter-spacing: 0.12em; text-transform: uppercase;">Followers</div>
-                  <div style="font-size: 30px; color: #f8fafc; line-height: 1; margin-top: 8px; font-weight: 800;">150+</div>
-                </div>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  
+  <a href="https://komarev.com/ghpvc/?username=Durganandkumarthakur">
+    <img src="https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Durganandkumarthakur?tab=followers">
+    <img src="https://img.shields.io/github/followers/Durganandkumarthakur?label=Followers&style=for-the-badge&color=1DA1F2&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/Durganandkumarthakur?tab=stars">
+    <img src="https://img.shields.io/github/stars/Durganandkumarthakur?label=Stars&style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
+  </a>
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blueviolet?style=for-the-badge&logo=clockify" alt="Experience" />
+  </a>
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge" alt="Location" />
+  </a>
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage" alt="Status" />
+  </a>
 
 </div>
 
----
+<br/>
 
-## 🚀 Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🐍 COMMIT SNAKE ANIMATION 🐍                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    📊 ANIMATED STATS CARDS 📊                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/Durganandkumarthakur">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Durganandkumarthakur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durganandkumarthakur&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10" />
+  </a>
+</div>
 
-<table>
+<div align="center">
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Durganandkumarthakur&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=00F5FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00F5FF" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://github-profile-trophy.vercel.app/?username=Durganandkumarthakur&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Durganandkumarthakur">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Durganandkumarthakur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=FFD700&area=true&area_color=00F5FF" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🌊 ANIMATED DIVIDER 🌊                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    👨‍💻 ABOUT ME SECTION 👨‍💻                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=👨‍💻%20About%20Me&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" />
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
-<h3>🎤 Voice Assistant Web App</h3>
-<p>Real-time voice interaction with browser speech recognition and a FastAPI backend.</p>
-<p><strong>Tech:</strong> Python • FastAPI • JavaScript</p>
-<p><a href="https://github.com/Durganandkumarthakur/voice-assistant">View Project →</a></p>
-</td>
-<td align="center" width="33%">
-<h3>🛒 E-Commerce Platform</h3>
-<p>Scalable storefront with product, cart, checkout, and order flows.</p>
-<p><strong>Tech:</strong> Laravel • MySQL • React</p>
-<p><a href="https://github.com/Durganandkumarthakur/ecommerce">View Project →</a></p>
-</td>
-<td align="center" width="33%">
-<h3>📍 Event Listing System</h3>
-<p>Location-based event discovery with mobile-friendly and responsive design.</p>
-<p><strong>Tech:</strong> PHP • MySQL • HTML/CSS</p>
-<p><a href="https://github.com/Durganandkumarthakur/event-listing">View Project →</a></p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<h3>🔐 Auth Management System</h3>
-<p>Secure identity system with JWT, OAuth2, and 2FA support.</p>
-<p><strong>Tech:</strong> Node.js • Express • PostgreSQL</p>
-<p><a href="https://github.com/Durganandkumarthakur/auth-system">View Project →</a></p>
-</td>
-<td align="center" width="33%">
-<h3>📈 Analytics Dashboard</h3>
-<p>Live KPI dashboards with rich visualizations and metrics tracking.</p>
-<p><strong>Tech:</strong> React • TypeScript • FastAPI</p>
-<p><a href="https://github.com/Durganandkumarthakur/analytics-dashboard">View Project →</a></p>
-</td>
-<td align="center" width="33%">
-<h3>🚀 Microservices Architecture</h3>
-<p>Containerized systems designed for scaling, resilience, and orchestration.</p>
-<p><strong>Tech:</strong> Node.js • Docker • Kubernetes</p>
-<p><a href="https://github.com/Durganandkumarthakur/microservices">View Project →</a></p>
-</td>
-</tr>
-</table>
+<td width="55%" valign="top">
 
----
+### 💫 Who Am I?
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durganandkumarthakur&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=27)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durganandkumarthakur&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Durganandkumarthakur&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durganandpatna6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durganandkumarthakur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durganandkumarthakur)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@durganand)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/durganand)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Keep Learning, Keep Building, Keep Shipping! 🚀
-
-*"The best way to predict the future is to invent it." - Alan Kay*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&fontAlignY=70)
-
-</div>
+```yaml
+name:       Durganand Kumar Thakur
+role:       Full-Stack Developer & Backend Engineer
+location:   India 🇮🇳
+experience: 5+ Years
+focus:      Scalable Web Apps, APIs, Cloud
+hobbies:    Coding, Blogging, Open Source
+philosophy: "Clean code. Real impact."
