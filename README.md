@@ -1,371 +1,123 @@
-<!-- ═══════════════ 1. HERO ═══════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C10,30:1F2833,60:45A29E,100:66FCF1&height=260&section=header&text=Durganand%20Kumar%20Thakur&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20REST%20APIs&descAlignY=60&descSize=18&stroke=66FCF1&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:B42318,100:FF6B6B&height=190&section=header&text=Durganand%20Kumar%20Thakur&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20MySQL&descAlignY=60&descSize=16" width="100%" alt="Durganand Kumar Thakur — Full Stack Developer" />
 
 <a href="https://github.com/Durganandkumarthakur">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=66FCF1&center=true&vCenter=true&width=760&height=50&lines=%3E+Architecting+robust+web+applications+with+Laravel;%3E+Backend+Engineer+%7C+API+Designer+%7C+Database+Optimizer;%3E+Expanding+into+React+%2B+FastAPI+%2B+Tailwind;%3E+Open+to+elite+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&height=45&lines=Building+useful+web+applications;Laravel+%7C+PHP+%7C+MySQL+%7C+REST+APIs;Learning+and+growing+every+day" alt="Developer tagline" />
 </a>
 
-<br/>
+<p>
+  <a href="mailto:durganandpatna6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-B42318?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/durganandkumarthakur"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/📍_India-FF9933?style=for-the-badge&labelColor=0B0C10" />
-<img src="https://img.shields.io/badge/💼_1.4_Years_Experience-138808?style=for-the-badge&labelColor=0B0C10" />
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-00B4D8?style=for-the-badge&labelColor=0B0C10" />
-<img src="https://img.shields.io/badge/⚡_Laravel_Expert-FF2D20?style=for-the-badge&labelColor=0B0C10" />
-
-<br/><br/>
-
-<a href="mailto:durganandpatna6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/durganandkumarthakur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<a href="https://claude.ai/artifact/1hRsubCFyyzK91T4eMRvuf">
-  <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-66FCF1?style=for-the-badge&labelColor=1F2833" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=66FCF1&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Durganandkumarthakur?label=Followers&style=flat-square&color=45A29E&logo=github" />
-<img src="https://img.shields.io/github/stars/Durganandkumarthakur?label=Stars&style=flat-square&color=FFB400&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Durganandkumarthakur&label=Profile%20Views&color=B42318&style=flat-square" alt="Profile views" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
+## 👋 About Me
 
-<!-- ═══════════════ 2. ABOUT ═══════════════ -->
+I'm a **PHP Laravel Full Stack Developer** who enjoys building and maintaining practical web applications from database design and backend logic to user-facing interfaces.
+
+- 💻 Main stack: **PHP, Laravel, MySQL, JavaScript, HTML, CSS, Bootstrap**
+- 🔌 Work with REST APIs, authentication, role-based access, database relationships, and third-party integrations
+- 🧰 Comfortable with debugging, application maintenance, and deployment workflows
+- 🌱 Currently strengthening my skills in **React, Python, FastAPI, and Tailwind CSS**
+- 🎯 Focused on writing clear, maintainable code that solves real business problems
+- 🤝 Open to suitable full-time roles, freelance projects, and collaboration
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 👨‍💻 About Me
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,fastapi" alt="PHP, Laravel, MySQL, Python, FastAPI" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,linux" alt="Git, GitHub, VS Code, Vite, Postman, Linux" />
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Also familiar with AJAX, jQuery, Composer, XAMPP, phpMyAdmin, Laravel Blade, Eloquent ORM, migrations, middleware, validation, queues, jobs, and email/payment integrations.
 
-```js
-const durganand = {
-  role: "Full Stack Developer",
-  experience: "1.4 years",
-  mainStack: ["Laravel", "PHP", "MySQL", "REST APIs"],
-  currentlyLearning: ["React", "FastAPI", "Tailwind CSS"],
-  strengths: [
-    "Laravel apps from database to UI",
-    "Auth, roles & permissions",
-    "REST API design",
-    "Payments, queues & email workflows",
-    "Fixing production issues fast",
-  ],
-  motto: "Clean, maintainable code that solves real business problems.",
-};
+## 💼 What I Work On
 
+- **Laravel application development:** MVC structure, controllers, models, Blade views, service classes, and CRUD workflows
+- **Authentication and access control:** sessions, roles, permissions, middleware, and protected routes
+- **REST APIs:** request validation, JSON responses, HTTP status codes, and third-party API integrations
+- **Database work:** MySQL schema design, relationships, foreign keys, migrations, and query troubleshooting
+- **Application maintenance:** investigating errors, fixing bugs, and supporting local-to-server deployments
+- **Business workflows:** admin dashboards, forms, reporting, order flows, and payment-related features
 
-</td> <td width="42%" valign="top" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Durganandkumarthakur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=66FCF1&icon_color=45A29E&border_radius=12" width="100%" /></td> </tr> </table>
-<!-- ═══════════════ 3. TECH STACK ═══════════════ --><div align="center">
-🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,fastapi,html,css,js,bootstrap,tailwind,react&perline=11" /> <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,linux&perline=6" />
+## 🚀 Projects
 
+### 🏢 NexCRM — Business Management Application
+A Laravel-based business application involving administrative workflows and modules for managing business data.
 
+**Tech:** Laravel, PHP, MySQL, Blade, Bootstrap
 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+- Application maintenance, feature development, and debugging
+- Database-driven modules and role-based access workflows
+- API and integration work where required
 
+🔗 [Visit NexCRM](https://nexcrm.in)
 
+### 🛍️ Lugas — E-commerce Website
+A saree e-commerce project built with Laravel, Blade, Bootstrap, and MySQL.
 
-<img src="https://img.shields.io/badge/REST_APIs-4CAF50?style=flat-square" /> <img src="https://img.shields.io/badge/Authentication-2196F3?style=flat-square" /> <img src="https://img.shields.io/badge/Authorization-9C27B0?style=flat-square" /> <img src="https://img.shields.io/badge/Role--Based_Access-FF9800?style=flat-square" /> <img src="https://img.shields.io/badge/Multi--Tenancy-3F51B5?style=flat-square" /> <img src="https://img.shields.io/badge/Queues-795548?style=flat-square" /> <img src="https://img.shields.io/badge/Events_&_Listeners-607D8B?style=flat-square" /> <img src="https://img.shields.io/badge/Payment_Integration-4CAF50?style=flat-square" /></div>
-<!-- ═══════════════ 4. WHAT I WORK ON ═══════════════ --><div align="center">
-💼 What I Work On
-</div><table align="center" width="100%"> <tr> <td width="33%" valign="top" align="center">
-🏗️ Laravel Backend
-Controllers · Eloquent · Migrations · Middleware · Validation · Service Classes · Blade
+**Tech:** Laravel, PHP, MySQL, JavaScript, Bootstrap, Vite
 
-</td> <td width="33%" valign="top" align="center">
-🔐 Auth & Security
-Login Systems · Token & Session Auth · Roles · Policies · Password Reset · 2FA-ready
+- Product browsing and shopping-cart workflows
+- Checkout and payment integration
+- Storefront and administration features
 
-</td> <td width="33%" valign="top" align="center">
-🔗 APIs & Integrations
-REST APIs · JSON Responses · Request Validation · Payment Gateways · Email · Third-Party APIs
+🔗 [Visit Lugas](https://lugas.in)
 
-</td> </tr> <tr> <td width="33%" valign="top" align="center">
-🗄️ Database Design
-MySQL Schema · Relationships · Foreign Keys · Indexing · Query Optimization
+### 🧑‍💻 Portfolio
+My portfolio source code and related work.
 
-</td> <td width="33%" valign="top" align="center">
-⚙️ Background Processing
-Queues · Jobs · Events & Listeners · Scheduled Tasks · Notifications
+🔗 [Browse my GitHub repositories](https://github.com/Durganandkumarthakur?tab=repositories)
 
-</td> <td width="33%" valign="top" align="center">
-🚀 Deployment & Debugging
-Deployments · Production Bug Fixing · Log Analysis · Performance Tuning · Hotfixes
+> Update this section with direct repository links when the corresponding project repositories are public.
 
-</td> </tr> </table>
-<!-- ═══════════════ 5. FEATURED PROJECTS ═══════════════ --><div align="center">
-📌 Featured Projects
-<sub>👉 Replace each “View Repository” link with the exact repo URL.</sub>
+## 📊 GitHub Stats
 
-</div>
-<table align="center" width="100%"> <tr> <td width="50%" valign="top"><div align="center">
-🏢 Laravel Business Application
-<img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap" /></div>
-A business app handling core workflows: authentication, role-based access, CRUD, and database-driven reporting.
-
-MVC Eloquent Middleware Policies Validation Service layer
-
-<div align="center"> <a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/View_Repository-66FCF1?style=for-the-badge&logo=github&logoColor=0B0C10" /></a> </div></td> <td width="50%" valign="top"><div align="center">
-🛒 E-Commerce Platform
-<img src="https://skillicons.dev/icons?i=laravel,mysql,js" /></div>
-Full-stack store with product catalog, cart, order workflow, and payment integration.
-
-Order flow Payment callbacks Admin panel Inventory logic
-
-<div align="center"> <a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/View_Repository-66FCF1?style=for-the-badge&logo=github&logoColor=0B0C10" /></a> </div></td> </tr> <tr> <td width="50%" valign="top"><div align="center">
-🔐 REST API Backend
-<img src="https://skillicons.dev/icons?i=laravel,php,postman" /></div>
-Structured REST API with authentication, authorization, request validation, and consistent JSON responses.
-
-API resources Token auth Validation HTTP status codes
-
-<div align="center"> <a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/View_Repository-66FCF1?style=for-the-badge&logo=github&logoColor=0B0C10" /></a> </div></td> <td width="50%" valign="top"><div align="center">
-⚛️ React + FastAPI Project
-<img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,python" /></div>
-Built while learning: frontend–backend separation and modern API consumption.
-
-Components Axios/Fetch Python backend Tailwind
-
-<div align="center"> <a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/View_Repository-66FCF1?style=for-the-badge&logo=github&logoColor=0B0C10" /></a> </div></td> </tr> </table>
-<!-- ═══════════════ 6. DEVELOPMENT JOURNEY ═══════════════ --><div align="center">
-🗺️ My Development Journey
-</div><table align="center" width="100%"> <tr> <td width="20%" align="center">
-🌱 2023
-Foundations
-
-
-<sub>HTML · CSS · JS
-PHP Basics
-MySQL Queries</sub>
-
-</td> <td width="20%" align="center">
-🚀 2024
-Laravel Ascent
-
-
-<sub>MVC Architecture
-Eloquent ORM
-First Real Projects</sub>
-
-</td> <td width="20%" align="center">
-💼 2025
-Professional
-
-
-<sub>1.4 Yrs Experience
-REST APIs
-Production Deployments</sub>
-
-</td> <td width="20%" align="center">
-⚛️ 2026
-Full Stack+
-
-
-<sub>React · FastAPI
-Tailwind CSS
-Modern Tooling</sub>
-
-</td> <td width="20%" align="center">
-🎯 2027
-Next Level
-
-
-<sub>System Design
-Cloud (AWS)
-Open Source</sub>
-
-</td> </tr> </table>
-<!-- ═══════════════ 7. SERVICES I OFFER ═══════════════ --><div align="center">
-🎯 Services I Offer
-</div><table align="center" width="100%"> <tr> <td width="50%" valign="top">
-🏗️ Custom Laravel Development
-End-to-end Laravel apps — from database schema to polished UI. Auth, dashboards, business logic.
-
-</td> <td width="50%" valign="top">
-🔌 REST API Development
-Clean, versioned, well-documented APIs. Token/Session auth, validation, error handling.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🗄️ Database Architecture
-Optimized MySQL schemas — relationships, indexing, migrations, and query performance.
-
-</td> <td width="50%" valign="top">
-🐛 Bug Fixing & Maintenance
-Fast production debugging — log analysis, hotfixes, performance tuning, and legacy code rescue.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🔐 Auth & Role Systems
-Role-based access, policies, gates, multi-tenancy, 2FA-ready login systems.
-
-</td> <td width="50%" valign="top">
-🔗 Third-Party Integrations
-Payment gateways, email services, SMS, and external APIs — securely wired in.
-
-</td> </tr> </table>
-<!-- ═══════════════ 8. A WEEK IN MY DEV LIFE ═══════════════ --><div align="center">
-📅 A Week In My Dev Life
-</div><table align="center" width="100%"> <tr> <td width="14%" align="center">
-Mon
-
-🔧
-
-<sub>Feature Build</sub>
-
-</td> <td width="14%" align="center">
-Tue
-
-🐛
-
-<sub>Bug Fixing</sub>
-
-</td> <td width="14%" align="center">
-Wed
-
-🔌
-
-<sub>API Work</sub>
-
-</td> <td width="14%" align="center">
-Thu
-
-🗄️
-
-<sub>DB Tuning</sub>
-
-</td> <td width="14%" align="center">
-Fri
-
-🚀
-
-<sub>Deployments</sub>
-
-</td> <td width="15%" align="center">
-Sat
-
-📚
-
-<sub>Learning</sub>
-
-</td> <td width="15%" align="center">
-Sun
-
-☕
-
-<sub>Rest & Reflect</sub>
-
-</td> </tr> </table>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Durganandkumarthakur&theme=tokyonight&hide_border=true&title_color=66FCF1&border_radius=12&layout=compact" width="60%" />
-<sub>⏱️ WakaTime stats (if configured)</sub>
-
-</div>
-<!-- ═══════════════ 9. COLLABORATION & FEEDBACK ═══════════════ --><div align="center">
-🤝 Collaboration & Feedback
-</div><table align="center" width="100%"> <tr> <td width="50%" valign="top">
-💬 "Delivered our Laravel admin panel ahead of schedule with clean, readable code. Highly dependable."
-
-— Project Lead, Client Project
-⭐⭐⭐⭐⭐
-
-</td> <td width="50%" valign="top">
-💬 "Handled API integrations and payment workflows with great attention to edge cases."
-
-— Senior Developer, Team Collaboration
-⭐⭐⭐⭐⭐
-
-</td> </tr> <tr> <td width="50%" valign="top">
-💬 "Fast debugging on production issues. Saved us hours of downtime."
-
-— Product Owner, Business App
-⭐⭐⭐⭐⭐
-
-</td> <td width="50%" valign="top">
-💬 "Great communicator. Always asks the right questions before writing code."
-
-— Freelance Client
-⭐⭐⭐⭐⭐
-
-</td> </tr> </table>
 <div align="center">
-💡 Want to collaborate on a Laravel or full-stack project?
-I'm just one message away.
-
-<a href="mailto:durganandpatna6@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/durganandkumarthakur"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Durganandkumarthakur&show_icons=true&hide_border=true&theme=transparent&title_color=B42318&icon_color=FF6B6B" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durganandkumarthakur&layout=compact&hide_border=true&theme=transparent&title_color=B42318" alt="Most used languages" />
 </div>
-<!-- ═══════════════ 10. GITHUB ANALYTICS ═══════════════ --><div align="center">
-📊 GitHub Analytics
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Durganandkumarthakur&theme=tokyonight&hide_border=true&ring=66FCF1&fire=66FCF1&currStreakLabel=66FCF1&border_radius=12" width="62%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durganandkumarthakur&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=66FCF1&border_radius=12" width="45%" /> <img src="https://github-profile-trophy.vercel.app/?username=Durganandkumarthakur&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" width="45%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durganandkumarthakur&theme=tokyo-night&hide_border=true&area=true&color=66FCF1&line=66FCF1&point_color=ffffff" width="100%" /></div>
-<!-- ═══════════════ 11. CURRENT FOCUS ═══════════════ --><div align="center">
-🎯 Current Focus
-</div><table align="center" width="100%"> <tr> <td width="25%" align="center">
-📚 Learning
-React
-FastAPI
-Python Backend
-Tailwind CSS
 
-</td> <td width="25%" align="center">
-🏗️ Building
-Laravel Projects
-REST APIs
-Admin Dashboards
-Business Apps
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durganandkumarthakur&hide_border=true&theme=transparent&ring=B42318&fire=FF6B6B&currStreakLabel=B42318" alt="GitHub contribution streak" />
+</div>
 
-</td> <td width="25%" align="center">
-📝 Improving
-Documentation
-Code Structure
-Testing
-Git Workflow
+*Stats are provided by third-party services and may occasionally be unavailable or delayed.*
 
-</td> <td width="25%" align="center">
-🚀 Goals 2026
-Stronger Portfolio
-Better Project Docs
-Deeper Laravel
-React Proficiency
+## 📚 Current Focus
 
-</td> </tr> </table>
-<!-- ═══════════════ 12. CONTRIBUTION SNAKE ═══════════════ --><div align="center">
-🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Durganandkumarthakur/Durganandkumarthakur/output/github-contribution-grid-snake-dark.svg" width="100%" /></div>
-<!-- ═══════════════ 13. DEV QUOTE ═══════════════ --><div align="center">
-💭 Dev Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" /></div>
-<!-- ═══════════════ 14. SUPPORT ═══════════════ --><div align="center">
-☕ Support My Work
-If you find my projects helpful, consider supporting me!
+- Improving Laravel architecture, testing, and maintainability
+- Practising API design and backend development
+- Building confidence with React and FastAPI
+- Improving project documentation and Git workflows
 
-<a href="https://www.buymeacoffee.com/durganandkumarthakur" target="_blank"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> <a href="https://github.com/sponsors/Durganandkumarthakur" target="_blank"> <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /> </a></div>
-<!-- ═══════════════ 15. LET'S CONNECT ═══════════════ --><div align="center">
-📫 Let's Connect
-Open to full-time, freelance, and collaborative opportunities in Laravel / PHP / Full Stack development.
+## 📫 Let's Connect
 
+I'm happy to connect about Laravel/PHP development, backend work, and practical full-stack projects.
 
-<a href="mailto:durganandpatna6@gmail.com"><img src="https://img.shields.io/badge/Email-durganandpatna6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/durganandkumarthakur"><img src="https://img.shields.io/badge/LinkedIn-durganandkumarthakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- **Email:** [durganandpatna6@gmail.com](mailto:durganandpatna6@gmail.com)
+- **LinkedIn:** [linkedin.com/in/durganandkumarthakur](https://linkedin.com/in/durganandkumarthakur)
+- **GitHub:** [@Durganandkumarthakur](https://github.com/Durganandkumarthakur)
 
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66FCF1,50:45A29E,100:0B0C10&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%" />
-<sub>Real projects • honest experience • continuous learning</sub>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:B42318,100:161B22&height=110&section=footer" width="100%" alt="" />
+  <sub>Building useful things, learning continuously, and improving with every project.</sub>
 </div>
