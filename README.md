@@ -16,12 +16,23 @@
 
 </div>
 
-<!-- Layer 3: Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=1&width=1" alt=""/>
+<div align="center">
 
-<h1 style="font-size: 42px; font-weight: 800; background: linear-gradient(90deg, #FF6B6B, #B42318, #FF6B6B); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 5px 0;">
-   DURGANAND KUMAR THAKUR
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B42318,100:FF6B6B&height=180&section=header&text=Durganand%20Kumar%20Thakur&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" width="100%" alt="Header"/>
+
+<img src="https://github.com/Durganandkumarthakur.png" width="130" style="border-radius: 50%; border: 4px solid #B42318; box-shadow: 0 0 30px #FF6B6B; margin-top: -70px; background: #0D1117;" alt="Avatar"/>
+
+<h2>Hi 👋 I'm Durganand</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Laravel+Full-Stack+Developer;PHP+%7C+MySQL+%7C+REST+APIs;Building+Real-World+Apps" alt="Typing"/>
+
+<p>
+<a href="mailto:durganandpatna6@gmail.com"><img src="https://img.shields.io/badge/Email-B42318?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/durganand-kumar-thakur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Durganandkumarthakur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+</div>
 
 <!-- Layer 4: Animated Role Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%92%BB+Laravel+Full-Stack+Developer;%F0%9F%94%A5+PHP+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;%E2%9A%A1+Building+CRM+%26+E-Commerce+Solutions" alt="Roles"/>
